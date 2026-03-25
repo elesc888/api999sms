@@ -1,4 +1,4 @@
-9export let PORT = 370; // 端口
+export let PORT = 370; // 端口
 
 export interface Proxy {
     domain: string;
