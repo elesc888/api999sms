@@ -1,4 +1,4 @@
-export let PORT = 370; // 端口
+9export let PORT = 370; // 端口
 
 export interface Proxy {
     domain: string;
@@ -13,8 +13,8 @@ export interface Proxy {
 // 代理
 export let PROXYS = [ 
     {
-        domain: "8.3api.xyz",
-        url: "https://api.sms8.net/api/",
+        domain: "s9.3api.xyz",
+        url: "https://api999sms.com/api/",
         enable: true
     }
 ];
